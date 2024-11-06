@@ -1,0 +1,3 @@
+TOKEN = "7286798081:AAF9FvG2npVrHjKIxwCntdCwesfrxc0k6dA"
+WEATHER_API_KEY = "d57c5aee58d55dbfe77931b0556a1b6a"
+Treaning_API_KEY = "0b0ad1df1amshcc54d61f5a85f0dp1ef1d5jsndf4692290c60"
